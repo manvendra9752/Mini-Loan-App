@@ -35,7 +35,7 @@ This project involves the development of a mini-loan application where authentic
 Clone the repository:
 
 ```bash
-git clone https://github.com/Raj-Gurjar/Loan-App-Assignment-Techdome.git 
+git clone https://github.com/manvendra9752/Mini-Loan-App.git 
    ```
 Navigate to the project directory:
 ```
